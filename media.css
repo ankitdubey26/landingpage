@@ -1,0 +1,978 @@
+/* media for 1200px to 1400px ------------------------------------------------------------------- */
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+    .myheaderlogoimage>img {
+        width: 60px;
+    }
+
+    .myheaderlogoimage h2 {
+        font-weight: 500;
+    }
+
+    .myheaderlogoimage span {
+        font-weight: 200;
+    }
+
+    .headerbuttoncontainer {
+        gap: 15px;
+    }
+
+    .headerbutton {
+        border: none;
+        width: 170px;
+        height: 50px;
+        border-radius: 13px;
+    }
+
+    .headerbutton1 {
+        font-weight: 500;
+    }
+
+    .headerbutton2 {
+        font-weight: 500;
+    }
+
+    .headerbutton3 {
+        font-weight: 500;
+    }
+
+    /* ------------------------------------------ */
+    .secondcontainer {
+        line-height: 30px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .secondcontainer h1 {
+        font-size: 70px;
+    }
+
+    .secondcontainer p {
+        font-size: 20px;
+    }
+
+
+    .secondcontainerbutton {
+        gap: 25px;
+    }
+
+    /* ------------------------------------------ */
+
+    .thirdconainer {
+        padding-top: 45px;
+        padding-bottom: 45px;
+
+    }
+
+    .thirdconainer img {
+        width: 120px;
+
+    }
+
+    /* ------------------------------------------ */
+
+    .fourthcontainer {
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+    .fourthcontainer>div>h3 {
+        font-size: 40px;
+    }
+
+    .fourthcontainer>div>p {
+        font-size: 20px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+    .fourthcontainerinthreecard1,
+    .fourthcontainerinthreecard2,
+    .fourthcontainerinthreecard3 {
+        padding: 20px;
+    }
+
+    .cardstopifourthcontainer1 {
+        background-color: #f9d8d7;
+        font-size: 30px;
+        padding: 10px 16px;
+        border-radius: 10px;
+    }
+
+    .cardstopifourthcontainer2 {
+        background-color: #caeae2;
+        font-size: 30px;
+        padding: 10px 16px;
+        border-radius: 10px;
+    }
+
+    .cardstopifourthcontainer3 {
+        background-color: #fef8e4;
+        font-size: 30px;
+        padding: 10px 16px;
+        border-radius: 10px;
+    }
+
+    .fourthcontainerinthreecard1 h3 {
+        font-size: 30px;
+    }
+
+    .fourthcontainerinthreecard1 p {
+        font-size: 16px;
+    }
+
+    .fourthcontainerinthreecard1 a {
+        font-size: 16px;
+    }
+
+    .fourthcontainerinthreecard2 h3 {
+        font-size: 30px;
+    }
+
+    .fourthcontainerinthreecard2 p {
+        font-size: 16px;
+    }
+
+    .fourthcontainerinthreecard2 a {
+        font-size: 16px;
+    }
+
+    .fourthcontainerinthreecard3 h3 {
+        font-size: 30px;
+    }
+
+    .fourthcontainerinthreecard3 p {
+        font-size: 16px;
+    }
+
+    .fourthcontainerinthreecard3 a {
+        font-size: 16px;
+    }
+
+    /* --------------------------------------------------------------- */
+    .fifthcontainer>div>h3 {
+        font-size: 40px;
+    }
+
+    .fifthcontainer>div>p {
+        font-size: 18px;
+        margin-top: 35px;
+        margin-bottom: 40px;
+    }
+
+    .fifthcontainerinner div {
+        width: 230px;
+    }
+
+
+    /* --------------------------------------------------------------- */
+
+    .sixcontainer {
+        line-height: 40px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+
+    .sixcontainer>div>img {
+        width: 500px;
+    }
+
+    .sixcontainer h2 {
+        font-size: 35px;
+    }
+
+    .sixcontainer p {
+        font-size: 20px;
+    }
+
+}
+
+/* media for 992px to 1200px------------------------------------------------------------------- */
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    .headerbutton {
+        width: 120px;
+        height: 50px;
+    }
+
+    .headerbutton1,
+    .headerbutton2,
+    .headerbutton3 {
+        font-size: 14px;
+
+    }
+
+    /* ----------------------------------------------     */
+
+    .secondcontainer {
+        line-height: 20px;
+    }
+
+    .secondcontainer h1 {
+        font-size: 50px;
+    }
+
+    .secondcontainer p {
+        font-size: 16px;
+    }
+
+
+    .secondcontainerbutton {
+        gap: 20px;
+    }
+
+    /* ------------------------------------------ */
+
+    .thirdconainer {
+        padding-top: 40px;
+        padding-bottom: 40px;
+
+    }
+
+    .thirdconainer img {
+        width: 100px;
+
+    }
+
+    /* ------------------------------------------ */
+
+    .fourthcontainer {
+        margin-top: 70px;
+        margin-bottom: 70px;
+    }
+
+    .fourthcontainer>div>h3 {
+        font-size: 30px;
+    }
+
+    .fourthcontainer>div>p {
+        font-size: 16px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+    .fourthcontainerinthreecard1,
+    .fourthcontainerinthreecard2,
+    .fourthcontainerinthreecard3 {
+        padding: 20px;
+    }
+
+    .cardstopifourthcontainer1 {
+        background-color: #f9d8d7;
+        font-size: 25px;
+        padding: 10px 14px;
+        border-radius: 10px;
+    }
+
+    .cardstopifourthcontainer2 {
+        background-color: #caeae2;
+        font-size: 25px;
+        padding: 10px 14px;
+        border-radius: 10px;
+    }
+
+    .cardstopifourthcontainer3 {
+        background-color: #fef8e4;
+        font-size: 25px;
+        padding: 10px 14px;
+        border-radius: 10px;
+    }
+
+    .fourthcontainerinthreecard1 h3 {
+        font-size: 25px;
+    }
+
+    .fourthcontainerinthreecard1 p {
+        font-size: 14px;
+    }
+
+    .fourthcontainerinthreecard1 a {
+        font-size: 14px;
+    }
+
+    .fourthcontainerinthreecard2 h3 {
+        font-size: 25px;
+    }
+
+    .fourthcontainerinthreecard2 p {
+        font-size: 14px;
+    }
+
+    .fourthcontainerinthreecard2 a {
+        font-size: 14px;
+    }
+
+    .fourthcontainerinthreecard3 h3 {
+        font-size: 25px;
+    }
+
+    .fourthcontainerinthreecard3 p {
+        font-size: 14px;
+    }
+
+    .fourthcontainerinthreecard3 a {
+        font-size: 14px;
+    }
+
+    /* --------------------------------------------------------------- */
+    .fifthcontainer>div>h3 {
+        font-size: 35px;
+    }
+
+    .fifthcontainer>div>p {
+        font-size: 16px;
+        margin-top: 35px;
+        margin-bottom: 40px;
+    }
+
+    .fifthcontainerinner div {
+        width: 200px;
+    }
+
+
+    /* --------------------------------------------------------------- */
+
+    .sixcontainer {
+        line-height: 40px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    }
+
+
+    .sixcontainer>div>img {
+        width: 500px;
+    }
+
+    .sixcontainer h2 {
+        font-size: 30px;
+    }
+
+    .sixcontainer p {
+        font-size: 18px;
+    }
+
+
+}
+
+/* media for 768px to 992px ------------------------------------------------------------------- */
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    .myheader {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        /* background-color: #009379; */
+        margin-top: 10px;
+    }
+
+    .myheaderlogoimage {
+        display: flex;
+        align-items: center;
+    }
+
+    .myheaderlogoimage>img {
+        width: 70px;
+    }
+
+    .myheaderlogoimage h2 {
+        font-weight: 700;
+    }
+
+    .myheaderlogoimage span {
+        font-weight: 400;
+    }
+
+    .headerbuttoncontainer {
+        display: flex;
+        gap: 20px;
+    }
+
+    .headerbutton {
+        border: none;
+        width: 180px;
+        height: 60px;
+        border-radius: 15px;
+    }
+
+    .headerbutton1 {
+        display: none;
+        color: #009379;
+        background-color: #ffffff;
+        font-weight: 700;
+    }
+
+    .headerbutton2 {
+        color: #009379;
+        background-color: #E8F5F2;
+        font-weight: 700;
+    }
+
+    .headerbutton3 {
+        display: none;
+    }
+
+    /* section 2 css started_____________________________________________________-------------------------------- */
+
+    .secondcontainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        line-height: 30px;
+        margin-top: 80px;
+        margin-bottom: 40px;
+    }
+
+    .secondcontainer>div>img {
+        width: 400px;
+    }
+
+    .secondcontainer h1 {
+        text-align: center;
+        font-size: 70px;
+        font-weight: 700;
+    }
+
+    .secondcontainer p {
+        text-align: center;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .secondcontainer span {
+        color: rgb(51, 57, 220);
+    }
+
+    .secondcontainerbutton{
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
+    .secondcontainerbutton button{
+        color: #ffffff;
+        background-color: #009379;
+    }
+
+    /* section 3 css started ____--------------------------------------------------------- */
+    .thirdconainer {
+        display: flex;
+        justify-content: space-evenly;
+        border-top: 2px solid rgba(0, 0, 0, 0.167);
+        border-bottom: 2px solid rgba(0, 0, 0, 0.167);
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+    }
+
+    .thirdconainer img {
+        width: 80px;
+
+    }
+
+    .thirdconainerin {
+        display: flex;
+    }
+
+    .thirdconainerin {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    /* section 4 css started ____--------------------------------------------------------- */
+    .fourthcontainer {
+        text-align: center;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .fourthcontainer>div>h3 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .fourthcontainer>div>p {
+        font-size: 18px;
+        /* font-weight:700; */
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .fourthcontainerin {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .fourthcontainerinthreecard1,
+    .fourthcontainerinthreecard2,
+    .fourthcontainerinthreecard3 {
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        border-radius: 20px;
+        padding: 20px;
+    }
+
+    .cardstopifourthcontainer1 {
+        background-color: #f9d8d7;
+        font-size: 30px;
+        padding: 10px 16px;
+        border-radius: 10px;
+    }
+
+    .cardstopifourthcontainer2 {
+        background-color: #caeae2;
+        font-size: 30px;
+        padding: 10px 16px;
+        border-radius: 10px;
+    }
+
+    .cardstopifourthcontainer3 {
+        background-color: #fef8e4;
+        font-size: 30px;
+        padding: 10px 16px;
+        border-radius: 10px;
+    }
+
+    .fourthcontainerinthreecard1 h3 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-top: 20px;
+    }
+
+    .fourthcontainerinthreecard1 p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 20px;
+    }
+
+    .fourthcontainerinthreecard1 a {
+        text-decoration: none;
+        color: #009379;
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .fourthcontainerinthreecard2 h3 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-top: 20px;
+    }
+
+    .fourthcontainerinthreecard2 p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 20px;
+    }
+
+    .fourthcontainerinthreecard2 a {
+        text-decoration: none;
+        color: #009379;
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .fourthcontainerinthreecard3 h3 {
+        font-size: 30px;
+        font-weight: 700;
+        margin-top: 20px;
+    }
+
+    .fourthcontainerinthreecard3 p {
+        font-size: 16px;
+        font-weight: 400;
+        margin-top: 20px;
+    }
+
+    .fourthcontainerinthreecard3 a {
+        text-decoration: none;
+        color: #009379;
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+
+
+    /* section 5 css started ____--------------------------------------------------------- */
+
+    .fifthcontainer {
+        text-align: center;
+    }
+
+    .fifthcontainer>div>h3 {
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .fifthcontainer>div>p {
+        font-size: 18px;
+        /* font-weight:700; */
+        margin-top: 40px;
+        margin-bottom: 50px;
+    }
+
+    .fifthcontainerinner {
+        justify-content: space-between;
+        display: flex;
+    }
+
+    .fifthcontainerinner div {
+        border-radius: 20px 20px 0px 0px;
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+        padding: 10px;
+        width: 150px;
+        border-bottom: 5px solid rgba(255, 0, 0, 0.497);
+    }
+    .fifthcontainerinner>div h3 {
+        font-size: 20px;
+    }
+    .fifthcontainerinner>div p {
+        font-size: 14px;
+    }
+
+
+
+    /* section 6  css started ____--------------------------------------------------------- */
+    .sixcontainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        line-height: 50px;
+        margin-top: 120px;
+        margin-bottom: 0px;
+    }
+
+
+    .sixcontainer>div>img {
+        width: 400px;
+    }
+
+    .sixcontainertext{
+        margin-top: 50px;
+    }
+
+    .sixcontainer h2 {
+        text-align: center;
+        font-size: 40px;
+        font-weight: 700;
+    }
+
+    .sixcontainer p {
+        text-align: center  ;
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+}
+
+/* media for 576px to 768px------------------------------------------------------------------- */
+@media screen and (min-width: 320px) and (max-width: 768px) {
+        .myheader {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            /* background-color: #009379; */
+            margin-top: 10px;
+        }
+    
+        .myheaderlogoimage {
+            display: flex;
+            align-items: center;
+        }
+    
+        .myheaderlogoimage>img {
+            width: 40px;
+        }
+    
+        .myheaderlogoimage h2 {
+            font-weight: 700;
+            font-size: 20px;
+        }
+    
+        .myheaderlogoimage span {
+            font-weight: 400;
+        }
+    
+        .headerbuttoncontainer {
+            display: flex;
+            gap: 20px;
+        }
+    
+        .headerbutton {
+            border: none;
+            width: 120px;
+            height: 40px;
+            border-radius: 10px;
+        }
+    
+        .headerbutton1 {
+            display: none;
+            color: #009379;
+            background-color: #ffffff;
+            font-weight: 700;
+        }
+    
+        .headerbutton2 {
+            color: #009379;
+            background-color: #E8F5F2;
+            font-weight: 700;
+        }
+    
+        .headerbutton3 {
+            display: none;
+        }
+    
+        /* section 2 css started_____________________________________________________-------------------------------- */
+    
+        .secondcontainer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            line-height: 20px;
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+    
+        .secondcontainer>div>img {
+            width: 200px;
+        }
+    
+        .secondcontainer h1 {
+            text-align: center;
+            font-size: 40px;
+            font-weight: 700;
+        }
+    
+        .secondcontainer p {
+            text-align: center;
+            font-size: 12px;
+            font-weight: 500;
+        }
+    
+        .secondcontainer span {
+            color: rgb(51, 57, 220);
+        }
+    
+        .secondcontainerbutton{
+            justify-content: center;
+            margin-top: 20px;
+            margin-bottom: 50px;
+        }
+        .secondcontainerbutton button{
+            color: #ffffff;
+            background-color: #009379;
+        }
+    
+        /* section 3 css started ____--------------------------------------------------------- */
+        .thirdconainer {
+            display: flex;
+            justify-content: space-evenly;
+            border-top: 2px solid rgba(0, 0, 0, 0.167);
+            border-bottom: 2px solid rgba(0, 0, 0, 0.167);
+            padding-top: 30px;
+            padding-bottom: 30px;
+    
+        }
+    
+        .thirdconainer img {
+            width: 40px;
+    
+        }
+    
+        .thirdconainerin {
+            display: flex;
+        }
+    
+        .thirdconainerin {
+            display: flex;
+            justify-content: space-around;
+        }
+    
+        /* section 4 css started ____--------------------------------------------------------- */
+        .fourthcontainer {
+            text-align: center;
+            margin-top: 30px;   
+            margin-bottom: 30px;
+        }
+    
+        .fourthcontainer>div>h3 {
+            font-size: 30px;
+            font-weight: 700;
+        }
+    
+        .fourthcontainer>div>p {
+            font-size: 16px;
+            /* font-weight:700; */
+            margin-top: 30px;
+            margin-bottom: 50px;
+        }
+    
+        .fourthcontainerin {
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+    
+        .fourthcontainerinthreecard1,
+        .fourthcontainerinthreecard2,
+        .fourthcontainerinthreecard3 {
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            border-radius: 15px;
+            padding: 15px;
+        }
+    
+        .cardstopifourthcontainer1 {
+            background-color: #f9d8d7;
+            font-size: 25px;
+            padding: 10px 16px;
+            border-radius: 10px;
+        }
+    
+        .cardstopifourthcontainer2 {
+            background-color: #caeae2;
+            font-size: 25px;
+            padding: 10px 16px;
+            border-radius: 10px;
+        }
+    
+        .cardstopifourthcontainer3 {
+            background-color: #fef8e4;
+            font-size: 25px;
+            padding: 10px 16px;
+            border-radius: 10px;
+        }
+    
+        .fourthcontainerinthreecard1 h3 {
+            font-size: 25px;
+            font-weight: 700;
+            margin-top: 20px;
+        }
+    
+        .fourthcontainerinthreecard1 p {
+            font-size: 14px;
+            font-weight: 400;
+            margin-top: 20px;
+        }
+    
+        .fourthcontainerinthreecard1 a {
+            text-decoration: none;
+            color: #009379;
+            font-size: 14px;
+            font-weight: 700;
+        }
+    
+        .fourthcontainerinthreecard2 h3 {
+            font-size: 25px;
+            font-weight: 700;
+            margin-top: 20px;
+        }
+    
+        .fourthcontainerinthreecard2 p {
+            font-size: 14px;
+            font-weight: 400;
+            margin-top: 20px;
+        }
+    
+        .fourthcontainerinthreecard2 a {
+            text-decoration: none;
+            color: #009379;
+            font-size: 14px;
+            font-weight: 700;
+        }
+    
+        .fourthcontainerinthreecard3 h3 {
+            font-size: 25px;
+            font-weight: 700;
+            margin-top: 20px;
+        }
+    
+        .fourthcontainerinthreecard3 p {
+            font-size: 14px;
+            font-weight: 400;
+            margin-top: 20px;
+        }
+    
+        .fourthcontainerinthreecard3 a {
+            text-decoration: none;
+            color: #009379;
+            font-size: 14px;
+            font-weight: 700;
+        }
+    
+    
+    
+        /* section 5 css started ____--------------------------------------------------------- */
+    
+        .fifthcontainer {
+            text-align: center;
+        }
+    
+        .fifthcontainer>div>h3 {
+            font-size: 25px;
+            font-weight: 700;
+        }
+    
+        .fifthcontainer>div>p {
+            font-size: 16px;
+            /* font-weight:700; */
+            margin-top: 30px;
+            margin-bottom: 40px;
+        }
+    
+        .fifthcontainerinner {
+            justify-content: space-between;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+    
+        .fifthcontainerinner div {
+            border-radius: 20px 20px 0px 0px;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+            padding: 10px;
+            width: 150px;
+            border-bottom: 5px solid rgba(255, 0, 0, 0.497);
+        }
+        .fifthcontainerinner>div h3 {
+            font-size: 20px;
+        }
+        .fifthcontainerinner>div p {
+            font-size: 14px;
+        }
+    
+    
+    
+        /* section 6  css started ____--------------------------------------------------------- */
+        .sixcontainer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+            line-height: 30px;
+            margin-top: 120px;
+            margin-bottom: 0px;
+        }
+    
+    
+        .sixcontainer>div>img {
+            width: 200px;
+        }
+    
+        .sixcontainertext{
+            margin-top: 50px;
+        }
+    
+        .sixcontainer h2 {
+            text-align: center;
+            font-size: 30px;
+            font-weight: 700;
+        }
+    
+        .sixcontainer p {
+            text-align: center  ;
+            font-size: 16px;
+            font-weight: 500;
+        }
+    
+    
+}

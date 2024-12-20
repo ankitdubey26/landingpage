@@ -1,0 +1,275 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+.myheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: #009379; */
+    margin-top: 10px;
+}
+
+.myheaderlogoimage {
+    display: flex;
+    align-items: center;
+}
+
+.myheaderlogoimage>img {
+    width: 70px;
+}
+
+.myheaderlogoimage h2 {
+    font-weight: 700;
+}
+
+.myheaderlogoimage span {
+    font-weight: 400;
+}
+
+.headerbuttoncontainer {
+    display: flex;
+    gap: 20px;
+}
+
+.headerbutton {
+    border: none;
+    width: 180px;
+    height: 60px;
+    border-radius: 15px;
+}
+
+.headerbutton1 {
+    color: #009379;
+    background-color: #ffffff;
+    font-weight: 700;
+}
+
+.headerbutton2 {
+    color: #009379;
+    background-color: #E8F5F2;
+    font-weight: 700;
+}
+
+.headerbutton3 {
+    color: #ffffff;
+    background-color: #009379;
+    font-weight: 700;
+}
+
+/* section 2 css started_____________________________________________________-------------------------------- */
+
+.secondcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 50px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.secondcontainer h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.secondcontainer p {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.secondcontainer span {
+    color: rgb(51, 57, 220);
+}
+
+.secondcontainerbutton {
+    display: flex;
+    gap: 30px;
+}
+
+/* section 3 css started ____--------------------------------------------------------- */
+.thirdconainer {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 2px solid rgba(0, 0, 0, 0.167);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.167);
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.thirdconainer img {
+    width: 150px;
+
+}
+
+.thirdconainerin {
+    display: flex;
+}
+
+.thirdconainerin {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* section 4 css started ____--------------------------------------------------------- */
+.fourthcontainer {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.fourthcontainer>div>h3{
+    font-size: 45px;
+    font-weight:700;
+}
+.fourthcontainer>div>p{
+    font-size: 20px;
+    /* font-weight:700; */
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.fourthcontainerin {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fourthcontainerinthreecard1,
+.fourthcontainerinthreecard2,
+.fourthcontainerinthreecard3 {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.cardstopifourthcontainer1 {
+    background-color: #f9d8d7;
+    font-size: 40px;
+    padding: 10px 16px;
+    border-radius: 10px;
+}
+.cardstopifourthcontainer2 {
+    background-color: #caeae2;
+    font-size: 40px;
+    padding: 10px 16px;
+    border-radius: 10px;
+}
+.cardstopifourthcontainer3 {
+    background-color: #fef8e4;
+    font-size: 40px;
+    padding: 10px 16px;
+    border-radius: 10px;
+}
+
+.fourthcontainerinthreecard1 h3 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.fourthcontainerinthreecard1 p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.fourthcontainerinthreecard1 a {
+    text-decoration: none;
+    color: #009379;
+    font-size: 18px;
+    font-weight: 700;
+}
+.fourthcontainerinthreecard2 h3 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.fourthcontainerinthreecard2 p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.fourthcontainerinthreecard2 a {
+    text-decoration: none;
+    color: #009379;
+    font-size: 18px;
+    font-weight: 700;
+}
+.fourthcontainerinthreecard3 h3 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+.fourthcontainerinthreecard3 p {
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.fourthcontainerinthreecard3 a {
+    text-decoration: none;
+    color: #009379;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+
+/* section 5 css started ____--------------------------------------------------------- */
+
+.fifthcontainer{
+    text-align: center;
+}
+
+.fifthcontainer>div>h3{
+    font-size: 45px;
+    font-weight:700;
+}
+.fifthcontainer>div>p{
+    font-size: 20px;
+    /* font-weight:700; */
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.fifthcontainerinner{
+    justify-content: space-between;
+    display: flex;
+}
+.fifthcontainerinner div{
+    border-radius: 20px 20px 0px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 3px 10px;
+    padding: 20px;
+    width: 250px;
+    border-bottom: 5px solid rgba(255, 0, 0, 0.497);
+}
+
+
+
+/* section 6  css started ____--------------------------------------------------------- */
+.sixcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    line-height: 50px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+
+.sixcontainer>div>img{
+    width: 600px;
+}
+
+.sixcontainer h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.sixcontainer p {
+    font-size: 25px;
+    font-weight: 500;
+}
